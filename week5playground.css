@@ -1,0 +1,19 @@
+body {
+
+}
+h4{
+    font-size: 30px;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: purple;
+}
+#bounty {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.life{
+    font-size: 50;
+}
